@@ -3,7 +3,7 @@ import "./App.css";
 const App = () => {
   return (
     <>
-      <h1>kalpesh jamod</h1>
+      <h1>kalpesh </h1>
     </>
   );
 };
